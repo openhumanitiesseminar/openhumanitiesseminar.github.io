@@ -1,0 +1,11 @@
+- 
+  id: 3
+  name: "Dr Marcel"
+  surname: "Knöchelmann"
+  company: "DZHW (German Centre for Higher Education and Research Studies)"
+  title: "Sociologist"
+  bio: "Dr Marcel Knöchelmann is a sociologist with a focus on scholarly communication, inequities in education, and the production of knowledge. After a research stay at Yale University, he completed his PhD at University College London in 2021 with the thesis: Rationalities of Scholarly Discourse: A Cultural Sociological Analysis of Authorship and Publishing in the Humanities, funded by the London Arts & Humanities Partnership. He currently works at the German Centre for Higher Education and Research Studies, DZHW Berlin. Prior to his research, he worked as a bookseller and at different publishing houses in the UK and Germany. He is a founding member of the network for higher education and science policy of German Social Democrats."
+  thumbnailUrl: marcel.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://marcel-knoechelmann.de"}

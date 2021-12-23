@@ -1,0 +1,27 @@
+- 
+  id: 0
+  name: "Nilo"
+  surname: "Pedrazzini"
+  title: "PhD Candidate in Linguistics"
+  thumbnailUrl: nilo.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "Oxford/RROx", title: "University of Oxford/Reproducibility Research Oxford"}
+  social: 
+    - {name: "site", link: "http://npedrazzini.github.io/"}
+    - {name: "twitter", link: "https://twitter.com/nilopedrazzini"}
+    - {name: "github", link: "https://github.com/npedrazzini"}
+
+- 
+  id: 1
+  name: "Malika"
+  surname: "Ihle"
+  title: "Reproducible Research Oxford Coordinator"
+  thumbnailUrl: default.jpg
+  team: true
+  ribbon: 
+    - {abbr: "RROx", title: "Reproducibility Research Oxford"}
+  social: 
+    - {name: "site", link: "http://malikaihle.wordpress.com/"}
+    - {name: "twitter", link: "https://twitter.com/MalikaIhle"}
+    - {name: "github", link: "https://github.com/MalikaIhle"}
