@@ -12,7 +12,6 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Open Humanities Seminar Series"
 email: "nilo.pedrazzini@ling-phil.ox.ac.uk"
 description: "The Open Humanities Seminar Series is a monthly event featuring scholars and industry-based researchers who have been contributing extensively to the discussion around Humanities and Open scholarship."
-baseurl: "/zeppelin"
 url: "https://openhumanitiesseminar.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
