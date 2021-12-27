@@ -184,10 +184,10 @@ footerBlocks:
   links:
    - {link: "mailto:openhumanitiesseminar@gmail.com", text: "openhumanitiesseminar@gmail.com"}
    - {link: "mailto:nilo.pedrazzini@ling-phil.ox.ac.uk", text: "nilo.pedrazzini@ling-phil.ox.ac.uk"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ #-
+ # title: "FAQ"
+ # links:
+ #  - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
