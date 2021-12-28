@@ -167,7 +167,7 @@ time {
     }
     25% {
         transform: rotate(90deg);
-        background-color: #2159d6;
+        background-color: #000E1E;
     }
     50% {
         transform: rotate(180deg);
@@ -184,7 +184,7 @@ time {
 }
 @keyframes reveal {
     0% {
-        background-color: #2159d6;
+        background-color: #000E1E;
         transform: rotate(0deg);
     }
     25% {
@@ -200,7 +200,7 @@ time {
         transform: rotate(180deg);
     }
     100% {
-        background-color: #2159d6;
+        background-color: #000E1E;
         transform: rotate(0deg);
     }
 }
@@ -216,7 +216,7 @@ time {
         background-color: #102c6b;
     }
     25% {
-        background-color: #2159d6;
+        background-color: #000E1E;
     }
     37.51%, 62.5% {
         background-color: #6b1204;
