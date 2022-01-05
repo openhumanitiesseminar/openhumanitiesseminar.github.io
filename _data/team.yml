@@ -17,7 +17,7 @@
   name: "Malika"
   surname: "Ihle"
   title: "Reproducible Research Oxford Coordinator"
-  thumbnailUrl: default.jpg
+  thumbnailUrl: malika.png
   team: true
   ribbon: 
     - {abbr: "RROx", title: "Reproducibility Research Oxford"}

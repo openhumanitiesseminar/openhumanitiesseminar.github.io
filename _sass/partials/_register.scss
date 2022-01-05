@@ -1,0 +1,11 @@
+.register {
+  ul {
+      position: relative;
+      list-style: none;
+    }
+    
+    li::before {
+      content: '▶';
+      position: inherit;
+    }
+}
