@@ -1,0 +1,9 @@
+- 
+  date: "2022-01-18"
+  dateReadable: "18 January 2022"
+  timeslots:
+    - {
+        startTime: "15:00",
+        endTime: "16:00 (GMT)",
+        sessionIds: [001],
+    }

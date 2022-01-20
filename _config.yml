@@ -42,6 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/register/", text: "Register"}
+ - {permalink: "/pastseminars/", text: "Past seminars"}
  - {permalink: "/schedule/", text: "Upcoming seminars"}
  #- {permalink: "/pasttalks/", text: "Past seminars"}
  - {permalink: "/speakers/", text: "Speakers"}
@@ -61,7 +62,7 @@ typeoutTextValues: '"", "Humanities", "Scholarship in the Humanities", "Science 
 typeoutFallback: "Humanities"
 heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-- {permalink: "/schedule/", text: "Next up: 18 Jan 2022"}
+- {permalink: "/schedule/", text: "Next up: 22 Feb 2022"}
 
 # About Block
 aboutTitle: "About"
