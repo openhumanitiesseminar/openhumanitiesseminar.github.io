@@ -16,8 +16,8 @@
   surname: "Beals"
   company: "Loughborough University"
   #title: "Sociologist"
-  #bio: "Dr Marcel Knöchelmann is a sociologist with a focus on scholarly communication, inequities in education, and the production of knowledge. After a research stay at Yale University, he completed his PhD at University College London in 2021 with the thesis: Rationalities of Scholarly Discourse: A Cultural Sociological Analysis of Authorship and Publishing in the Humanities, funded by the London Arts & Humanities Partnership. He currently works at the German Centre for Higher Education and Research Studies, DZHW Berlin. Prior to his research, he worked as a bookseller and at different publishing houses in the UK and Germany. He is a founding member of the network for higher education and science policy of German Social Democrats."
-  thumbnailUrl: default.jpg
+  bio: "Dr Melodee Beals is a Senior Lecturer in Digital History in the School of Social Sciences and Humanities at Loughborough University, UK. Her research explores the ways in which the movement of peoples and ideas intersect and the practical traces of imagined communities within the Anglophone World. As an advocate of the Digital Humanities and Open Research, she works to develop and promote computer-aided methodologies through her roles as history editor for the Open Library of Humanities and Fellow of the Software Sustainability Institute. Her latest project, The Atlas of Digitised Newspapers and Metadata brought together these two loves by tracing the history and nature of digitised newspapers collections around the world to help researcher build projects across national and linguistic borders."
+  thumbnailUrl: melodee.jpg
   rockstar: true
   social: 
     - {name: "site", link: "https://mhbeals.com"}

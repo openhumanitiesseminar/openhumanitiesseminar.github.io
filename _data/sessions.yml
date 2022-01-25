@@ -7,8 +7,8 @@
 
 -
   id: 002
-  title: "TBD"
-  #description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Data-Driven Hermeneutics: Historical Judgement in Computer-Aided Research"
+  description: "On the surface, Big Data seems an obvious and rewarding new frontier for historians, with digitisation offering new insights on a grand scale. However, as an observational rather than experimental discipline, and with datasets particularly prone to unfillable gaps owing to labyrinthine copyright claims and an uneven electronic public domain, data-driven historical research can appear either impossible or thoroughly undesirable. Yet, the sentiments behind open data and methodological reproducibility are part of the very fabric of the humanities, with its tradition of documented hermeneutics and thoroughly provenanced evidence. This talk will discuss the historiographical tradition of reproducibility and how we might build upon these rich traditions in an age of data-driven results."
   subtype: keynote
   speakers: [4]
 
