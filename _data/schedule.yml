@@ -6,7 +6,7 @@
         startTime: "15:00",
         endTime: "16:00 (GMT)",
         sessionIds: [002],
-        #registration: https://zoom.us/meeting/register/tJwlcOCqrj4sGtdOt6LSb1P6sDm-x9W8FyCe
+        registration: https://zoom.us/meeting/register/tJUkfuyuqzgoE9J1HU218kdzY8phduHhiNs3
     }
 
 - 
