@@ -33,3 +33,16 @@
   rockstar: true
   social: 
     - {name: "site", link: "https://www.crassh.cam.ac.uk/about/people/anne-alexander/"}
+
+- 
+  id: 6
+  name: "Dr Barbara"
+  surname: "McGillivray"
+  company: "King's College London and The Alan Turing Institute"
+  #title: "Sociologist"
+  bio: "Barbara McGillivray is Lecturer in Digital Humanities and Cultural Computation at King’s College London and Turing Fellow at The Alan Turing Institute, where she runs the Humanities and Data Science special interest group. She has a degree in Mathematics and one in Classics from the University of Firenze and a PhD in Computational Linguistics form the University of Pisa. Her current research focusses on computational models of meaning change in historical and contemporary texts and she is co-investigator of the Living with Machines project. She is also passionate about supporting open data in humanities research and has been editor-in-chief of the Journal of Open Humanities Data since 2019. Her most recent book is “Applying Language Technology in Humanities Research. Design, Application and the Underlying Logic” (Palgrave Macmillan 2020)."
+  thumbnailUrl: barbara.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "https://www.turing.ac.uk/people/researchers/barbara-mcgillivray"}
+    - {name: "twitter", link: "https://twitter.com/BarbaraMcGilli"}

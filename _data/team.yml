@@ -2,7 +2,7 @@
   id: 0
   name: "Nilo"
   surname: "Pedrazzini"
-  title: "PhD Candidate in Linguistics"
+  title: "The Alan Turing Institute/RROx"
   thumbnailUrl: nilo.jpeg
   team: true
   ribbon: 
@@ -16,7 +16,7 @@
   id: 1
   name: "Malika"
   surname: "Ihle"
-  title: "Reproducible Research Oxford Coordinator"
+  title: "RROx"
   thumbnailUrl: malika.png
   team: true
   ribbon: 

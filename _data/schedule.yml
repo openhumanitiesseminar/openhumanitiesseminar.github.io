@@ -19,3 +19,14 @@
         sessionIds: [003],
         #registration: https://zoom.us/meeting/register/tJwlcOCqrj4sGtdOt6LSb1P6sDm-x9W8FyCe
     }
+
+- 
+  date: "2022-04-27"
+  dateReadable: "27 April 2022"
+  timeslots:
+    - {
+        startTime: "14:00",
+        endTime: "15:00 (GMT)",
+        sessionIds: [004],
+        #registration: https://zoom.us/meeting/register/tJwlcOCqrj4sGtdOt6LSb1P6sDm-x9W8FyCe
+    }
