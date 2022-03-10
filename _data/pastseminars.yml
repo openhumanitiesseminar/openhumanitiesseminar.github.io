@@ -7,3 +7,13 @@
         endTime: "16:00 (GMT)",
         sessionIds: [001],
     }
+
+- 
+  date: "2022-02-22"
+  dateReadable: "22 February 2022"
+  timeslots:
+    - {
+        startTime: "15:00",
+        endTime: "16:00 (GMT)",
+        sessionIds: [002],
+    }

@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Humanities", "Scholarship in the Humanities", "Science 
 typeoutFallback: "Humanities"
 heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-- {permalink: "/schedule/", text: "Next up: 22 Feb 2022"}
+- {permalink: "/schedule/", text: "Next up: 22 Mar 2022"}
 
 # About Block
 aboutTitle: "About"

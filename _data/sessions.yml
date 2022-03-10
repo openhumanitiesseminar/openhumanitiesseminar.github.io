@@ -21,7 +21,7 @@
 
 -
   id: 004
-  title: "TBD"
-  #description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Open-humanities data or open humanities-data? Lessons learnt (so far) from the Journal of Open Humanities Data"
+  description: "The growing availability of born-digital and digital collections, and data-intensive methods present new infrastructural needs and opportunities for research in the humanities. In parallel, with the increasing adoption of Open Knowledge principles in research, new questions arise on the best practices for open humanities research. Data Publication is acquiring increasing visibility and interest, also thanks to the growing popularity of data journals, publishing venues devoted to peer-reviewed publications describing datasets and crediting their creators (data papers). In this talk I will present my experience of leading the Journal of Open Humanities Data, a data journals dedicated to humanities research and its role in supporting the community of Open Humanities researchers."
   subtype: keynote
   speakers: [6]
