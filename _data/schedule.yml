@@ -17,5 +17,5 @@
         startTime: "14:00",
         endTime: "15:00 (GMT)",
         sessionIds: [004],
-        #registration: https://zoom.us/meeting/register/tJwlcOCqrj4sGtdOt6LSb1P6sDm-x9W8FyCe
+        registration: https://turing-uk.zoom.us/meeting/register/tJMrcO-qqzwvH9VkymZm0l4w8fMKvHVaqFRK
     }
