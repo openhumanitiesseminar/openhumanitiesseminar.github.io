@@ -1,15 +1,4 @@
 - 
-  date: "2022-03-22"
-  dateReadable: "22 March 2022 (Cancelled)"
-  timeslots:
-    - {
-        startTime: "15:00",
-        endTime: "16:00 (GMT)",
-        sessionIds: [003],
-        #registration: https://zoom.us/meeting/register/tJwlcOCqrj4sGtdOt6LSb1P6sDm-x9W8FyCe
-    }
-
-- 
   date: "2022-04-27"
   dateReadable: "27 April 2022"
   timeslots:
