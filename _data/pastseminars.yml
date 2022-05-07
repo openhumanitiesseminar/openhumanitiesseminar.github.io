@@ -27,3 +27,13 @@
         endTime: "16:00 (GMT)",
         sessionIds: [003],
     }
+
+- 
+  date: "2022-04-27"
+  dateReadable: "27 April 2022"
+  timeslots:
+    - {
+        startTime: "14:00",
+        endTime: "15:00 (GMT)",
+        sessionIds: [004],
+    }
